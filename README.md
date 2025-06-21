@@ -64,8 +64,8 @@ Join me in my journey to become a better problem solver and a great game develop
 ---
 
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png" alt="Game One ScreenShot" width="25%" style="margin-right: 20" />
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png" alt="Game Two ScreenShot" width="25%" style="margin-right: 20"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png" alt="Game One ScreenShot" width="30%" style="margin-right: 70" />
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png" alt="Game Two ScreenShot" width="30%" style="margin-right: 70"/>
   <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/vos.PNG" alt="Vos Home ScreenShot" width="35%" />
 </p>
 
