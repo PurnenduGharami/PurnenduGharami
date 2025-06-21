@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+  <img src="(https://github.com/PurnenduGharami/PurnenduGharami/blob/main/git%20banner.png)" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Purnendu 👋</h1>
@@ -58,8 +58,14 @@ Join me in my journey to become a better problem solver and a great game develop
 |--------|-------------|------------|------|
 | 🎮 [LOST SOUL: BROKEN WORLD]([https://game-dev-zero.itch.io/lost-soul-broken-world]) | A 2D platformer about a forgotten soul | Godot, GDScript | [Play](https://game-dev-zero.itch.io/lost-soul-broken-world) |
 | 🎮 [SPIRIT BIRD ]([https://game-dev-zero.itch.io/spirit-bird]) | An endless platformer inspired by the classic Flappy Bird (2013) | Godot, GDScript | [Play](https://game-dev-zero.itch.io/spirit-bird) |
-| 🧩 [VOS (Vaults for Seekers)]([https://github.com/PurnenduGharami/vault-of-seekers]) | VOS (Vaults for Seekers) is an open-source project that integrates multiple popular AI APIs into one unified app. | [Repo](https://github.com/PurnenduGharami/vault-of-seekers) |
+| 🧩 [VOS (Vaults for Seekers)]([https://github.com/PurnenduGharami/vault-of-seekers]) | VOS (Vaults for Seekers) is an open-source project that integrates multiple popular AI APIs into one unified app. | TypeScript, JavaScript | [Repo](https://github.com/PurnenduGharami/vault-of-seekers) |
 | 🖼️ [Personal Portfolio]([https://purnenduportfolio.framer.website/]) | My Personal Journey and Project Details | Figma, Framer | [View](https://purnenduportfolio.framer.website/) |
+
+---
+![Game One ScreenShot](https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png)
+![Game Two ScreenShot](https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png)
+![Vos Home ScreenShot](https://github.com/PurnenduGharami/PurnenduGharami/blob/main/vos.PNG)
+
 
 ---
 
@@ -76,7 +82,7 @@ Join me in my journey to become a better problem solver and a great game develop
 ## 📫 Contact Me
 
 - 🌐 Portfolio: [https://purnenduportfolio.framer.website/](https://purnenduportfolio.framer.website/)
-- ▶️ Youtube: [@purnendugharami8237]([https://www.youtube.com/@purnendugharami8237])
+- ▶️ Youtube: [https://www.youtube.com/@purnendugharami8237](https://www.youtube.com/@purnendugharami8237)
 
 
 ---
