@@ -62,11 +62,13 @@ Join me in my journey to become a better problem solver and a great game develop
 | 🖼️ [Personal Portfolio]([https://purnenduportfolio.framer.website/]) | My Personal Journey and Project Details | Figma, Framer | [View](https://purnenduportfolio.framer.website/) |
 
 ---
+
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png" alt="Game One ScreenShot" width="25%" />
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png" alt="Game Two ScreenShot" width="25%" />
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/vos.PNG" alt="Vos Home ScreenShot" width="25%" />
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png" alt="Game One ScreenShot" width="25%" style="margin-right: 20" />
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png" alt="Game Two ScreenShot" width="25%" style="margin-right: 20"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/vos.PNG" alt="Vos Home ScreenShot" width="35%" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
