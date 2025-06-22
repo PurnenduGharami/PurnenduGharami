@@ -56,10 +56,10 @@ Join me in my journey to become a better problem solver and a great game develop
 
 | Project | Description | Tech Stack | Demo |
 |--------|-------------|------------|------|
-| 🎮 [LOST SOUL: BROKEN WORLD]([https://game-dev-zero.itch.io/lost-soul-broken-world]) | A 2D platformer about a forgotten soul | Godot, GDScript | [Play](https://game-dev-zero.itch.io/lost-soul-broken-world) |
-| 🎮 [SPIRIT BIRD ]([https://game-dev-zero.itch.io/spirit-bird]) | An endless platformer inspired by the classic Flappy Bird (2013) | Godot, GDScript | [Play](https://game-dev-zero.itch.io/spirit-bird) |
-| 🧩 [VOS (Vaults for Seekers)]([https://github.com/PurnenduGharami/vault-of-seekers]) | VOS (Vaults for Seekers) is an open-source project that integrates multiple popular AI APIs into one unified app. | TypeScript, JavaScript | [Repo](https://github.com/PurnenduGharami/vault-of-seekers) |
-| 🖼️ [Personal Portfolio]([https://purnenduportfolio.framer.website/]) | My Personal Journey and Project Details | Figma, Framer | [View](https://purnenduportfolio.framer.website/) |
+| 🎮 [LOST SOUL: BROKEN WORLD]([https://game-dev-zero.itch.io/lost-soul-broken-world]) | A 2D platformer about a forgotten soul | Godot, GDScript | <a href="https://game-dev-zero.itch.io/lost-soul-broken-world" target="_blank" rel="noopener noreferrer">Play</a> |
+| 🎮 [SPIRIT BIRD ]([https://game-dev-zero.itch.io/spirit-bird]) | An endless platformer inspired by the classic Flappy Bird (2013) | Godot, GDScript | <a href="https://game-dev-zero.itch.io/spirit-bird" target="_blank" rel="noopener noreferrer">Play</a> |
+| 🧩 [VOS (Vaults for Seekers)]([https://github.com/PurnenduGharami/vault-of-seekers]) | VOS (Vaults for Seekers) is an open-source project that integrates multiple popular AI APIs into one unified app. | TypeScript, JavaScript | <a href="https://github.com/PurnenduGharami/vault-of-seekers" target="_blank" rel="noopener noreferrer">Repo</a> |
+| 🖼️ [Personal Portfolio]([https://purnenduportfolio.framer.website/]) | My Personal Journey and Project Details | Figma, Framer | <a href="https://purnenduportfolio.framer.website/" target="_blank" rel="noopener noreferrer">Visit</a> |
 
 ---
 
@@ -83,8 +83,8 @@ Join me in my journey to become a better problem solver and a great game develop
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: [https://purnenduportfolio.framer.website/](https://purnenduportfolio.framer.website/)
-- ▶️ Youtube: [https://www.youtube.com/@purnendugharami8237](https://www.youtube.com/@purnendugharami8237)
+- 🌐 Portfolio: <a href="https://purnenduportfolio.framer.website/" target="_blank" rel="noopener noreferrer">https://purnenduportfolio.framer.website/</a>
+- ▶️ Youtube:  <a href="https://www.youtube.com/@purnendugharami8237" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@purnendugharami8237</a>
 
 
 ---
