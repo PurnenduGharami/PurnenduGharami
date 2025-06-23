@@ -100,7 +100,7 @@ Join me in my journey to become a better problem solver and a great game develop
 ## 📫 Contact Me
 
 - 🌐 Portfolio: <a href="https://purnenduportfolio.framer.website/" target="_blank" rel="noopener noreferrer">https://purnenduportfolio.framer.website/</a>
-- ▶️ Youtube:  <a href="https://www.youtube.com/@purnendugharami8237" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@purnendugharami8237</a>
+- ▶️ Youtube:  <a href="https://www.youtube.com/channel/UC3d5JWAjOlNwAUFqMM5q2mw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@purnendugharamicode</a>
 
 
 ---
