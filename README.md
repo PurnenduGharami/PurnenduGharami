@@ -9,7 +9,7 @@
 
 ---
 
-## 🛑 Urgent Help Needed
+<!--## 🛑 Urgent Help Needed
 I recently received my provisional letter from my dream university abroad.
 I’m from Bangladesh, and this opportunity means everything to me.
 My family had saved enough, but my father lost most of it in a financial scam.
@@ -19,7 +19,7 @@ I know raising $6000 in 7 days is nearly impossible — but I still want to try.
 More details are on my Patreon.
 
 If you believe in impossible dreams, please consider supporting:
-👉 [Patreon link](https://www.patreon.com/posts/urgent-i-need-132032546?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+👉 [Patreon link](https://www.patreon.com/posts/urgent-i-need-132032546?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)-->
 
 
 
