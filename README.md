@@ -9,42 +9,65 @@
 
 ---
 
-<!--## 🛑 Urgent Help Needed
-I recently received my provisional letter from my dream university abroad.
-I’m from Bangladesh, and this opportunity means everything to me.
-My family had saved enough, but my father lost most of it in a financial scam.
-Now, I’m making one last attempt to raise funds online. Since most fundraising sites don’t work here, I’m using Patreon.
-
-I know raising $6000 in 7 days is nearly impossible — but I still want to try.
-More details are on my Patreon.
-
-If you believe in impossible dreams, please consider supporting:
-👉 [Patreon link](https://www.patreon.com/posts/urgent-i-need-132032546?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)-->
-
-
+<h1 align="center">Hi, I'm Purnendu 👋</h1>
+<h3 align="center">CSE (AI & ML) Student • Builder • Exploring Agentic Engineering</h3>
 
 ---
 
 ## 🧠 About Me
 
-I’m Purnendu Gharami, 18 this year, from a small town in Bangladesh. I have a unique perspective on life, and I try to reflect that through my projects.
+I’m Purnendu Gharami, a B.Tech CSE (AI & ML) student from a small town in Bangladesh.
 
-I plan to solve real-world problems in my own way, and bring dreams to life through game development. I believe no one is truly special — but we are all **unique**, and that uniqueness can offer **new ways to solve problems**.
+I started my journey wanting to become a game developer and build cool things on the internet. Like many aspiring developers, I was excited when AI-assisted coding and vibe coding started becoming popular. It felt like a dream come true because I could finally build projects that would have been impossible for me only a few years ago.
 
-I don't think that if I fail to solve a problem, it will remain unsolved. Someone else surely will. But my version will always be different — and maybe that’s what makes it valuable.
+But after building real projects, I realized something important:
 
-Join me in my journey to become a better problem solver and a great game developer.
+Generating code is easy.
+
+Understanding systems is hard.
+
+As projects become larger, AI loses context, introduces bugs, and sometimes creates problems that are difficult to fix when you don't understand how the application works underneath. The most frustrating part wasn't the bugs themselves—it was the feeling of having no control over the process.
+
+That experience changed my perspective.
+
+I don't believe software engineering is dead.
+
+I don't believe the future is pure vibe coding.
+
+At the same time, I don't think the future is manually writing every line of code either.
+
+I believe the future belongs to engineers who understand systems and know how to effectively direct AI.
+
+That's why I'm currently documenting my journey from:
+
+**Vibe Coding → Software Engineering → Agentic Engineering**
+
+through a series of increasingly complex projects.
+
+My goal is not to memorize every programming language or write every line of code by hand.
+
+My goal is to understand:
+
+* How systems work
+* How data flows
+* How applications communicate
+* How databases store information
+* How AI agents operate
+* How to diagnose failures
+* How to direct AI instead of depending on it
+
+Join me as I learn in public, build projects, explore AI-assisted development, and work toward becoming an Agentic Engineer.
 
 ---
 
-- 🎓 Currently trying to **get into college for my undergrad** & finish my project **VOS – Vaults of Seekers**
-- 🎮 Passionate about **Game Development, AI, Interactive Experiences, and Solving Problems**
-- 🌍 I aim to study abroad (though that dream is crumbling 😥), build immersive games, and create solutions to daily-life challenges
-- 🎨 I design with tools like **Figma, Inkscape, CapCut, and Photopea**
-- 💻 I code in **JavaScript, Python, GDScript, C#**, and work with **Godot Engine**
-- 📚 Currently learning **advanced gameplay systems, Firebase, and TypeScript**
-
----
+* 🎓 B.Tech CSE (AI & ML) Student at Sharda University
+* 🚀 Currently building projects that progressively teach software engineering and agentic workflows
+* 🤖 Interested in Agentic Engineering, AI-Assisted Development, System Design, and Product Building
+* 🎮 Passionate about Game Development, Interactive Experiences, and Problem Solving
+* 🧠 Building: Gita Knowledge Explorer, Time Lost Dashboard, Tech Knowledge Vault, LifeOS, and Life Timeline
+* 🎨 I design with tools like **Figma, Inkscape, CapCut, and Photopea**
+* 💻 I code in **JavaScript, TypeScript, Python, GDScript**, and work with **Next.js, Firebase, and Godot Engine**
+* 📚 Currently learning **TypeScript, Databases, Authentication, AI Workflows, and Full-Stack Development**
 
 ## 🛠️ Tech Stack
 
