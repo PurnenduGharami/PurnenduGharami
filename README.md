@@ -1,181 +1,199 @@
-<!-- Profile Banner -->
+<!-- ========================================= -->
+<!--                 BANNER                     -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/git%20banner.png" alt="Banner" />
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/git%20banner.png" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Purnendu 👋</h1>
-<h3 align="center">CSE (AI & ML) Student • Builder • Exploring Agentic Engineering</h3>
 
----
-
-## 🧠 About Me
-
-I’m Purnendu Gharami, originally from a small town in Bangladesh and currently studying B.Tech CSE (AI & ML) at Sharda University.
-
-I started my journey wanting to become a game developer and build cool things on the internet. Like many aspiring developers, I was excited when AI-assisted coding and vibe coding started becoming popular. It felt like a dream come true because I could finally build projects that would have been impossible for me only a few years ago.
-
-But after building real projects, I realized something important:
-
-Generating code is easy.
-
-Understanding systems is hard.
-
-As projects become larger, AI loses context, introduces bugs, and creates problems that become difficult to fix when you don't understand how the application works under the hood. The most frustrating part wasn't the bugs themselves—it was the feeling of having no control over the process.
-
-That experience changed my perspective.
-
-I don't believe software engineering is dead, and I don't think the future is manually writing every line of code either.
-
-I believe the future belongs to engineers who understand systems and know how to effectively direct AI.
-
-That's why I'm currently documenting my journey from:
-
-**Vibe Coding → Software Engineering → Agentic Engineering**
-
-through a series of increasingly complex projects.
-
-My goal is not to memorize every programming language or write every line of code by hand.
-
-My goal is to understand:
-
-* How systems work
-* How data flows
-* How applications communicate
-* How databases store information
-* How AI agents operate
-* How to diagnose failures
-* How to direct AI instead of depending on it
-
-Join me as I learn in public, build projects, explore AI-assisted development, and work toward becoming an Agentic Engineer.
-
----
-
-### 🚀 Currently Building
-
-* 📖 Gita Knowledge Explorer
-* ⏳ Time Lost Dashboard
-* 🧠 Tech Knowledge Vault
-* ⚙️ LifeOS (Personal Operating System)
-* 📜 Life Timeline
-
-### 💻 Tech Stack
-
-**Languages**
-
-* JavaScript
-* TypeScript
-* Python
-* C#
-* GDScript
-
-**Frameworks & Tools**
-
-* Next.js
-* Firebase
-* Tailwind CSS
-* Godot Engine
-* Git & GitHub
-
-### 🤖 Interests
-
-* Agentic Engineering
-* AI-Assisted Development
-* System Design
-* Product Building
-* Game Development
-* Interactive Experiences
-* Problem Solving
-
-### 📚 Currently Learning
-
-* TypeScript
-* Databases
-* Authentication
-* Full-Stack Development
-* AI Workflows & Agentic Systems
-
-### 🎨 Creative Stack
-
-* Figma
-* Inkscape
-* CapCut
-* Photopea
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c\&logoColor=black)
-![GDScript](https://img.shields.io/badge/-GDScript-478CBF?logo=godot-engine\&logoColor=white)
-
-### 🧰 Frameworks & Platforms
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
-
-### 🤖 AI & Development
-
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-412991?logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?logo=openai\&logoColor=white)
-
-### 🎨 Design & Creative
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma\&logoColor=white)
-![Photopea](https://img.shields.io/badge/-Photopea-18A497?logo=adobe-photoshop\&logoColor=white)
-![CapCut](https://img.shields.io/badge/-CapCut-000000?logo=capcut\&logoColor=white)
-![Inkscape](https://img.shields.io/badge/-Inkscape-000000?logo=inkscape\&logoColor=white)
-
-### 🎮 Game Development
-
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine\&logoColor=white)
-
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| 🎮 [LOST SOUL: BROKEN WORLD]([https://game-dev-zero.itch.io/lost-soul-broken-world]) | A 2D platformer about a forgotten soul | Godot, GDScript | <a href="https://game-dev-zero.itch.io/lost-soul-broken-world" target="_blank" rel="noopener noreferrer">Play</a> |
-| 🎮 [SPIRIT BIRD ]([https://game-dev-zero.itch.io/spirit-bird]) | An endless platformer inspired by the classic Flappy Bird (2013) | Godot, GDScript | <a href="https://game-dev-zero.itch.io/spirit-bird" target="_blank" rel="noopener noreferrer">Play</a> |
-| 🧩 [VOS (Vaults for Seekers)]([https://github.com/PurnenduGharami/vault-of-seekers]) | VOS (Vaults for Seekers) is an open-source project that integrates multiple popular AI APIs into one unified app. | TypeScript, JavaScript | <a href="https://github.com/PurnenduGharami/vault-of-seekers" target="_blank" rel="noopener noreferrer">Repo</a> |
-| 🖼️ [Personal Portfolio]([https://purnenduportfolio.framer.website/]) | My Personal Journey and Project Details | Figma, Framer | <a href="https://purnenduportfolio.framer.website/" target="_blank" rel="noopener noreferrer">Visit</a> |
-
----
+<h3 align="center">
+B.Tech CSE (AI & ML) Student • Building AI Products • Exploring Intelligent Systems
+</h3>
 
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/broken%20world.png" alt="Game One ScreenShot" width="30%" style="margin-right: 70" />
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/spirit%20bird.png" alt="Game Two ScreenShot" width="30%" style="margin-right: 70"/>
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/vos.PNG" alt="Vos Home ScreenShot" width="35%" />
+I enjoy building products that explore AI workflows, context, and practical problem solving.
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## About Me
+
+I'm a second-year **Computer Science (AI & ML)** student at **Sharda University**.
+
+Building AI-powered projects sparked my interest in software engineering. As those projects became more complex, I found myself asking less about **what AI can generate** and more about **how reliable AI systems should be designed**—how context is managed, how workflows are orchestrated, and how different components work together.
+
+Today I'm focused on strengthening my engineering fundamentals while building practical AI-powered applications.
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 [InvestIQ](https://github.com/PurnenduGharami/investIQ)
+
+### Multi-Agent Investment Analysis Platform
+
+A multi-agent investment analysis platform built using **React**, **n8n**, and AI models.
+
+Instead of relying on a single assistant, InvestIQ coordinates specialized AI agents that analyze investments from different perspectives before producing a final report.
+
+**Highlights**
+
+- 👨‍💻 Team Lead
+- 🏆 Built during a 24-hour university hackathon
+- ✅ Advanced to the second round from 500+ participating teams
+- 🤖 Multi-agent workflow using n8n
+
+### Engineering Decisions
+
+- Divided investment analysis into specialized AI agents instead of one large prompt.
+- Used workflow orchestration to coordinate multiple analysis stages.
+- Kept the React frontend independent from the AI workflow to make both easier to evolve.
+  
+<p align="center">
+  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/frontend.jpeg" width="500" alt="investIq"/>
+  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/workflow.png" width="500" alt="InvestIq"/>
+</p>
+---
+
+## 🧠 [Vault of Seekers (VOS)](https://github.com/PurnenduGharami/vault-of-seekers)
+
+### Multi-Model AI Workspace
+
+One of my earliest AI projects exploring how multiple language models could work together inside a single application.
+
+While building VOS, I explored questions such as:
+
+- When should requests be routed to different models?
+- How can long conversations be summarized without losing important context?
+- How should response quality be balanced against API cost?
+
+The application supports multi-source search, summarization, conflict checking between model responses, and custom model selection, allowing different retrieval strategies depending on the user's goal.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurnenduGharami&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurnenduGharami&theme=radical" />
+  <img src="https://github.com/PurnenduGharami/vault-of-seekers/blob/main/docs/assets%20screen%20shots/vos.PNG" alt="VOS"/>
+</P>
+
+---
+
+## 🎓 [FindMyClass](https://github.com/PurnenduGharami/findmyclass)
+
+### Campus Navigation Application
+
+One of my earliest web applications, built after repeatedly getting lost while navigating university buildings.
+
+The application helps students locate classrooms through an interactive campus map.
+
+Although technically simple, it taught me an important lesson:
+
+> Good software doesn't need to solve difficult computer science problems—it needs to solve real user problems.
+
+
+<p align="center">
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s2.png" width="500" alt="findclass"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s3.png" width="500" alt="findclass"/>
+</p>
+---
+
+## ⏳ Lost Pulse *(Private)*
+
+### Local-First Time Intelligence Platform
+
+A productivity application I'm developing as a commercial product.
+
+Instead of focusing only on completed tasks, Lost Pulse helps users understand how they actually spend their time through visualization and behavioral insights.
+
+### Design Decisions
+
+- Local-first architecture for speed and privacy.
+- Focus on time awareness rather than traditional task management.
+- Keeping the product private while iterating toward a production release.
+
+<p align="center">
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/lostpulse.png" alt="lost"/>
+
 </p>
 
 ---
 
-## 📫 Contact Me
+## ✋ [Gesture-to-Speech System](https://github.com/PurnenduGharami/Gesture-to-Speech-System)
 
-- 🌐 Portfolio: <a href="https://purnenduportfolio.framer.website/" target="_blank" rel="noopener noreferrer">https://purnenduportfolio.framer.website/</a>
-- ▶️ Youtube:  <a href="https://www.youtube.com/channel/UC3d5JWAjOlNwAUFqMM5q2mw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@purnendugharamicode</a>
+A hardware + software project that converts hand gestures into speech.
 
+**Highlights**
+
+- 👨‍💻 Team Lead
+- Arduino integration
+- Flask backend
+- Gesture recognition
+- Hardware/software communication
+
+<p align="center">
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/websiteUIgesture.png" width="500" alt="investIq"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/circuit.png" width="500" alt="InvestIq"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PurnenduGharami&label=Profile%20views&color=0e75b6&style=flat" alt="PurnenduGharami" />
+# 💡 How I Like Building
+
+The part of AI that interests me most isn't simply calling language models.
+
+I enjoy thinking about questions like:
+
+- How should multiple AI agents collaborate?
+- When should context be summarized?
+- How should information move through a system?
+- How can architecture improve reliability?
+- How can AI products balance capability, cost, and user experience?
+
+Those questions continue to shape the kinds of products I build.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### AI & Automation
+
+- n8n
+- OpenRouter
+- Genkit
+- REST APIs
+- Prompt Engineering
+
+---
+
+# 📬 Connect
+
+<p align="left">
+
+<a href="https://github.com/PurnenduGharami">
+GitHub
+</a>
+
 </p>
