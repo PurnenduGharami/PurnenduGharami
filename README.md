@@ -52,8 +52,8 @@ Instead of relying on a single assistant, InvestIQ coordinates specialized AI ag
 - Kept the React frontend independent from the AI workflow to make both easier to evolve.
   
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/frontend.jpeg" width="500" alt="investIq"/>
-  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/workflow.png" width="500" alt="InvestIq"/>
+  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/frontend.jpeg" width="400" alt="investIq"/>
+  <img src="https://github.com/PurnenduGharami/investIQ/blob/main/img/workflow.png" width="400" alt="InvestIq"/>
 </p>
 ---
 
@@ -90,10 +90,10 @@ Although technically simple, it taught me an important lesson:
 > Good software doesn't need to solve difficult computer science problems—it needs to solve real user problems.
 
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s2.png" width="500" alt="findclass"/>
   <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s3.png" width="500" alt="findclass"/>
-</p>
+</div>
 ---
 
 ## ⏳ Lost Pulse *(Private)*
