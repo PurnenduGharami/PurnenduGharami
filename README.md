@@ -91,8 +91,8 @@ Although technically simple, it taught me an important lesson:
 
 
 <div align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s2.png" width="500" alt="findclass"/>
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s3.png" width="500" alt="findclass"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s2.png" width="400" alt="findclass"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/s3.png" width="400" alt="findclass"/>
 </div>
 ---
 
