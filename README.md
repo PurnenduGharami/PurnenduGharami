@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/git%20banner.png" alt="Profile Banner"/>
+  <img src="https://github.com/PurnenduGharami/PurnenduGharami/blob/main/gitBanner.png" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Purnendu 👋</h1>
